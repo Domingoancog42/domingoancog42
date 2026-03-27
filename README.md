@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Domingo</h1>
 
+<p align="center">
+  🚀 Developer | 💡 Learner | 🔥 Future Engineer
+</p>
 
-**Domingoancog42/domingoancog42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=domingoancog42&show_icons=true&theme=radical" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=domingoancog42&theme=radical" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3 align="center">🛠️ Tech Stack</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git" />
+</p>
