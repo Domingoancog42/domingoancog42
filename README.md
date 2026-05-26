@@ -1,10 +1,10 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:7c3aed&text=Domingo%20Ancog&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Future%20Engineer&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:7c3aed&text=Domingo%20Ancog&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Future%20Full Stack Developer&descAlignY=58&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Domingo+%F0%9F%91%8B;Passionate+about+building+modern+web+experiences;Always+learning%2C+always+improving;Future+Engineer+with+a+love+for+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Domingo+%F0%9F%91%8B;Passionate+about+building+modern+web+experiences;Always+learning%2C+always+improving" alt="Typing SVG" />
 </div>
 
 <div align="center">
