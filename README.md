@@ -1,195 +1,83 @@
-<div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Domingo%20Ancog&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Future%20FullStackDeveloper&descAlignY=58&animation=fadeIn"
-  width="100%"
-  alt="Domingo Ancog Header"
-/>
-
-</div>
+# 💻 Domingo | README.md
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Domingo+%F0%9F%91%8B;Passionate+about+building+modern+web+experiences;Always+learning%2C+always+improving"
-  alt="Typing SVG"
-/>
+### 🖥️ Developer Profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0369a1&height=110&section=header&text=Welcome%20to%20My%20Profile&fontSize=25&fontColor=38bdf8" width="100%" />
 
 </div>
 
-<div align="center">
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
 
-<a href="https://github.com/domingoancog42">
-  <img
-    src="https://komarev.com/ghpvc/?username=domingoancog42&label=Profile%20Views&color=2563eb&style=for-the-badge"
-    alt="Profile Views"
-  />
-</a>
+<img src="./images/profile.png" alt="My Profile Photo" width="280"/>
 
-<a href="https://github.com/domingoancog42?tab=followers">
-  <img
-    src="https://img.shields.io/github/followers/domingoancog42?label=Followers&style=for-the-badge&color=7c3aed"
-    alt="GitHub Followers"
-  />
-</a>
+### 👨‍💻 Domingo
 
-<a href="https://github.com/domingoancog42">
-  <img
-    src="https://img.shields.io/badge/GitHub-domingoancog42-0ea5e9?style=for-the-badge&logo=github"
-    alt="GitHub"
-  />
-</a>
+`Developer` • `IT Enthusiast`
 
-</div>
+</td>
+<td width="60%" valign="top">
+
+### `domingo@github` ~ 💻
+
+```yaml
+OS: Windows / Linux
+Role: Developer
+IDE: Visual Studio Code
+Location: Philippines
+Status: Learning & Building
+```
 
 ---
 
-## 💫 About Me
+### 🛠️ Programming Languages
 
-<img
-  align="right"
-  alt="Coding"
-  width="320"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-/>
-
-I'm **Domingo**, a passionate developer who enjoys creating clean, modern, and user-friendly web experiences.
-
-I enjoy learning new technologies, improving my skills, and turning ideas into real projects.
-
-- 🚀 Focused on building responsive and interactive web applications
-- 💡 Interested in modern frontend and backend development
-- 📚 Constantly learning and exploring new tools and technologies
-- 🔥 Goal: Become a highly skilled software engineer
-- ⚡ I enjoy writing code that is simple, clean, and effective
-
-<br clear="right"/>
+```yaml
+Frontend: HTML, CSS, JavaScript
+Backend: PHP
+Database: MySQL
+Framework: React
+Tools: Git, GitHub, VS Code
+```
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Interests
 
-<div align="center">
-
-### Languages & Core
-
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,ts"
-  alt="Languages"
-/>
-
-### Frontend
-
-<img
-  src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"
-  alt="Frontend"
-/>
-
-### Backend & Database
-
-<img
-  src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"
-  alt="Backend"
-/>
-
-### Tools & Platforms
-
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"
-  alt="Tools"
-/>
-
-</div>
+```yaml
+Software: Web Development
+Projects: HRIS, Payroll Systems
+Database: Database Management
+Learning: Modern Technologies
+```
 
 ---
 
-## 📊 GitHub Stats
+### 📬 Contact
 
-<div align="center">
+```yaml
+Email: your-email@gmail.com
+GitHub: github.com/YOUR_USERNAME
+Portfolio: Coming Soon
+```
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=domingoancog42&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="Domingo GitHub Stats"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingoancog42&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Domingo Top Languages"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=domingoancog42&theme=tokyonight&hide_border=true"
-  alt="Domingo GitHub Streak"
-/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=domingoancog42&theme=tokyo-night&hide_border=true&area=true"
-  width="100%"
-  alt="Domingo Contribution Graph"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=domingoancog42&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6"
-  alt="Domingo GitHub Trophies"
-/>
-
-</div>
-
----
-
-## 🌱 Current Focus
-
-- 🌐 Improving JavaScript and React skills
-- 🎨 Building better UI/UX projects
-- ⚙️ Learning backend development with Node.js
-- 🚀 Growing through real-world coding projects
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/domingoancog42">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-</div>
-
----
-
-## ✨ Personal Motto
-
-<div align="center">
-
-### *"Learn continuously, build passionately, and grow every day."*
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
 
@@ -197,10 +85,8 @@ I enjoy learning new technologies, improving my skills, and turning ideas into r
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"
-  width="100%"
-  alt="Footer"
-/>
+### ⚡ Building, Learning & Innovating
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0ea5e9&style=flat-square)
 
 </div>
