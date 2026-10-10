@@ -1,15 +1,29 @@
 
 <div align="center">
 
-<img src="https://imagizer.imageshack.com/img923/3203/V4VOUK.png" width="190" alt="Domingo Profile" />
+# Hi, I'm Domingo 👋
 
-# Domingo
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+PHP+%7C+MySQL;Building+Innovative+Web+Solutions;Always+Learning+New+Technologies" alt="Typing Animation" />
 
-### Software Developer & Technology Enthusiast
+<br>
 
-*Building practical solutions through modern web technologies.*
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" alt="Developer Coding Animation"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views"/>
+<br><br>
+
+**Software Developer** &nbsp; • &nbsp; **Technology Enthusiast** &nbsp; • &nbsp; **Philippines 🇵🇭**
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0284c7&style=flat-square&label=Profile+Views" />
 
 </div>
 
@@ -17,59 +31,84 @@
 
 ## About Me
 
-```text
-domingo@github:~$ whoami
+I'm a passionate software developer focused on building **modern, efficient, and scalable web applications**.
 
-Name       Domingo
-Role       Software Developer
-Location   Philippines
-Focus      Full-Stack Web Development
-Editor     Visual Studio Code
-Currently  Building & Improving Web Systems
-Status     Always Learning
-```
+My interests include full-stack development, system architecture, database management, and creating solutions that improve everyday workflows.
 
-I am passionate about developing efficient, scalable, and user-friendly applications. My interests include full-stack development, database architecture, system automation, and building practical software solutions.
+- 💻 Developing modern web-based applications
+- 🏢 Building Human Resource Information Systems
+- 📊 Working with payroll and attendance management
+- 🗄️ Designing structured relational databases
+- 📚 Continuously exploring modern technologies
+- 🎯 Focused on clean, maintainable, and efficient code
 
 <br>
 
-## Technical Expertise
+## Developer Environment
+
+```yaml
+domingo@developer:~$ neofetch
+
+Developer:   Domingo
+Role:        Full-Stack Web Developer
+Location:    Philippines
+OS:          Windows / Linux
+Editor:      Visual Studio Code
+
+Frontend:    React, JavaScript, HTML, CSS
+Backend:     PHP
+Database:    MySQL
+Tools:       Git, GitHub, VS Code
+
+Current:     Building Web Applications
+Interests:   HRIS, Payroll & System Development
+Status:      Learning. Building. Improving.
+```
+
+<br>
+
+## Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,git,github,vscode&perline=9" alt="Technical Skills"/>
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend Technologies" />
+
+<br><br>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" alt="Backend Technologies" />
+
+<br><br>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Development Tools" />
 
 </div>
 
 <br>
 
-**Frontend Development**
+## What I'm Working On
 
-HTML5 · CSS3 · JavaScript · React
+**Human Resource Information System (HRIS)**
 
-**Backend Development**
-
-PHP · RESTful APIs · Server-Side Development
-
-**Database Management**
-
-MySQL · Relational Database Design · SQL
-
-**Development Tools**
-
-Git · GitHub · Visual Studio Code
-
-<br>
-
-## Areas of Interest
+An integrated system designed to streamline employee management and administrative processes.
 
 ```text
-Web Development       Modern Responsive Applications
-System Development    Human Resource Information Systems
-Payroll Management    Attendance & Payroll Automation
-Database Design       Structured & Reliable Data Management
-Learning              New Tools & Modern Technologies
+01  Employee Information Management
+02  Attendance & Biometric Integration
+03  Payroll Processing & Payslip Generation
+04  Leave & Travel Order Management
+05  Employee Loan & Deduction Management
+06  Rewards & Recognition
+07  Role-Based Access Control
+08  Reports & Analytics
 ```
+
+**Core Technologies:** React · PHP · MySQL
 
 <br>
 
@@ -77,32 +116,42 @@ Learning              New Tools & Modern Technologies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" width="49%" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=94A3B8" width="49%" alt="Most Used Languages"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" width="65%" alt="GitHub Streak"/>
 
 </div>
 
 <br>
 
-## Connect With Me
+## Development Philosophy
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Think.+Design.+Develop.+Deploy.;Clean+Code.+Better+Solutions.;Keep+Learning.+Keep+Building." alt="Development Philosophy"/>
+
+<br>
+
+*"Great software is built through continuous learning, thoughtful design, and consistent improvement."*
+
+<br>
+
+### Let's Connect
+
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<sub>Designing solutions. Writing code. Creating impact.</sub>
+<sub>Designed with passion for development and innovation.</sub>
 
 </div>
