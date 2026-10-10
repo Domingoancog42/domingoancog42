@@ -13,57 +13,53 @@
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="./images/profile.png" alt="My Profile Photo" width="280"/>
+<img src="https://imagizer.imageshack.com/img923/3203/V4VOUK.png" alt="Domingo Profile" width="280"/>
 
-### 👨‍💻 Domingo
+<h3>👨‍💻 Domingo</h3>
 
-`Developer` • `IT Enthusiast`
+<code>Developer</code> • <code>IT Enthusiast</code>
 
 </td>
 <td width="60%" valign="top">
 
-### `domingo@github` ~ 💻
+<h3>💻 domingo@github ~</h3>
 
-```yaml
-OS: Windows / Linux
-Role: Developer
-IDE: Visual Studio Code
+<h4>🖥️ System Information</h4>
+
+<pre>
+OS:       Windows / Linux
+Role:     Developer
+IDE:      Visual Studio Code
 Location: Philippines
-Status: Learning & Building
-```
+Status:   Learning & Building
+</pre>
 
----
+<h4>🛠️ Programming Languages</h4>
 
-### 🛠️ Programming Languages
-
-```yaml
-Frontend: HTML, CSS, JavaScript
-Backend: PHP
-Database: MySQL
+<pre>
+Frontend:  HTML, CSS, JavaScript
+Backend:   PHP
+Database:  MySQL
 Framework: React
-Tools: Git, GitHub, VS Code
-```
+Tools:     Git, GitHub, VS Code
+</pre>
 
----
+<h4>🚀 Interests</h4>
 
-### 🚀 Interests
-
-```yaml
+<pre>
 Software: Web Development
 Projects: HRIS, Payroll Systems
 Database: Database Management
 Learning: Modern Technologies
-```
+</pre>
 
----
+<h4>📬 Contact</h4>
 
-### 📬 Contact
-
-```yaml
-Email: your-email@gmail.com
-GitHub: github.com/YOUR_USERNAME
+<pre>
+Email:     your-email@gmail.com
+GitHub:    github.com/YOUR_USERNAME
 Portfolio: Coming Soon
-```
+</pre>
 
 </td>
 </tr>
@@ -87,6 +83,6 @@ Portfolio: Coming Soon
 
 ### ⚡ Building, Learning & Innovating
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0ea5e9&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0ea5e9&style=flat-square" alt="Profile Views" />
 
 </div>
