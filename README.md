@@ -1,88 +1,108 @@
 
-# 💻 Domingo | README.md
-
 <div align="center">
 
-### 🖥️ Developer Profile
+<img src="https://imagizer.imageshack.com/img923/3203/V4VOUK.png" width="190" alt="Domingo Profile" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0369a1&height=110&section=header&text=Welcome%20to%20My%20Profile&fontSize=25&fontColor=38bdf8" width="100%" />
+# Domingo
+
+### Software Developer & Technology Enthusiast
+
+*Building practical solutions through modern web technologies.*
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views"/>
 
 </div>
 
-<table>
-<tr>
-<td width="40%" align="center" valign="middle">
+<br>
 
-<img src="https://imagizer.imageshack.com/img923/3203/V4VOUK.png" alt="Domingo Profile" width="280"/>
+## About Me
 
-<h3>👨‍💻 Domingo</h3>
+```text
+domingo@github:~$ whoami
 
-<code>Developer</code> • <code>IT Enthusiast</code>
+Name       Domingo
+Role       Software Developer
+Location   Philippines
+Focus      Full-Stack Web Development
+Editor     Visual Studio Code
+Currently  Building & Improving Web Systems
+Status     Always Learning
+```
 
-</td>
-<td width="60%" valign="top">
+I am passionate about developing efficient, scalable, and user-friendly applications. My interests include full-stack development, database architecture, system automation, and building practical software solutions.
 
-<h3>💻 domingo@github ~</h3>
+<br>
 
-<h4>🖥️ System Information</h4>
-
-<pre>
-OS:       Windows / Linux
-Role:     Developer
-IDE:      Visual Studio Code
-Location: Philippines
-Status:   Learning & Building
-</pre>
-
-<h4>🛠️ Programming Languages</h4>
-
-<pre>
-Frontend:  HTML, CSS, JavaScript
-Backend:   PHP
-Database:  MySQL
-Framework: React
-Tools:     Git, GitHub, VS Code
-</pre>
-
-<h4>🚀 Interests</h4>
-
-<pre>
-Software: Web Development
-Projects: HRIS, Payroll Systems
-Database: Database Management
-Learning: Modern Technologies
-</pre>
-
-<h4>📬 Contact</h4>
-
-<pre>
-Email:     your-email@gmail.com
-GitHub:    github.com/YOUR_USERNAME
-Portfolio: Coming Soon
-</pre>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
+## Technical Expertise
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,git,github,vscode&perline=9" alt="Technical Skills"/>
 
 </div>
 
----
+<br>
+
+**Frontend Development**
+
+HTML5 · CSS3 · JavaScript · React
+
+**Backend Development**
+
+PHP · RESTful APIs · Server-Side Development
+
+**Database Management**
+
+MySQL · Relational Database Design · SQL
+
+**Development Tools**
+
+Git · GitHub · Visual Studio Code
+
+<br>
+
+## Areas of Interest
+
+```text
+Web Development       Modern Responsive Applications
+System Development    Human Resource Information Systems
+Payroll Management    Attendance & Payroll Automation
+Database Design       Structured & Reliable Data Management
+Learning              New Tools & Modern Technologies
+```
+
+<br>
+
+## GitHub Analytics
 
 <div align="center">
 
-### ⚡ Building, Learning & Innovating
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0ea5e9&style=flat-square" alt="Profile Views" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" width="48%" alt="Top Languages"/>
+
+</div>
+
+<br>
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>Designing solutions. Writing code. Creating impact.</sub>
 
 </div>
